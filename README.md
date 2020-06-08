@@ -1,3 +1,3 @@
-# Proyecto vacío
+# Enunciado
 
-Este repo fue creado para tener un nuevo proyecto Stack ya configurado.
+https://docs.google.com/document/d/1IKrJkdbPyoxfHqREIfqzxpsBdANcL2g9gvs9t-IR30E/edit
